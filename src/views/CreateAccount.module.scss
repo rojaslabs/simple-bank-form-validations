@@ -1,0 +1,65 @@
+form {
+  div {
+    margin-bottom: 10px;
+  }
+
+  label {
+    display: inline-block;
+    min-width: 200px;
+  }
+
+  input {
+    padding: 10px 25px;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  button {
+    margin-top: 40px;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 15px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    width: 100%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+      rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  }
+
+  button:disabled {
+    cursor: default;
+    opacity: 0.2;
+  }
+
+  button i {
+    margin-right: 10px;
+  }
+}
+
+.error {
+  border-radius: 20px;
+  margin-bottom: 20px;
+  color: red;
+  font-size: 14px;
+  background-color: #ffeeee;
+  padding: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffeeee transparent;
+  margin-top: 10px;
+  margin-bottom: 0;
+  margin-left: 310px;
+}
