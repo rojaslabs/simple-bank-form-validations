@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-bank-form-validations/static/css/main.09ffdb9f.css",
+    "main.js": "/simple-bank-form-validations/static/js/main.b67e96ae.js",
+    "static/js/787.4b1c3bda.chunk.js": "/simple-bank-form-validations/static/js/787.4b1c3bda.chunk.js",
+    "static/media/background.jpg": "/simple-bank-form-validations/static/media/background.03ada06a895e1bba04d1.jpg",
+    "index.html": "/simple-bank-form-validations/index.html",
+    "main.09ffdb9f.css.map": "/simple-bank-form-validations/static/css/main.09ffdb9f.css.map",
+    "main.b67e96ae.js.map": "/simple-bank-form-validations/static/js/main.b67e96ae.js.map",
+    "787.4b1c3bda.chunk.js.map": "/simple-bank-form-validations/static/js/787.4b1c3bda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ffdb9f.css",
+    "static/js/main.b67e96ae.js"
+  ]
+}
